@@ -42,17 +42,17 @@ Terraform simplifies infrastructure provisioning by automating tasks, leveraging
 
 Here are the reasons why we need Terraform and how it simplifies infrastructure provisioning:
 
-Automation: Enables automated infrastructure provisioning, reducing manual effort.
+- Automation: Enables automated infrastructure provisioning, reducing manual effort.
 
-Infrastructure as Code: Defines and manages infrastructure using code, facilitating versioning and collaboration.
+- Infrastructure as Code: Defines and manages infrastructure using code, facilitating versioning and collaboration.
 
-Multi-Cloud Support: Works with various cloud providers, simplifying management in multi-cloud or hybrid cloud environments.
+- Multi-Cloud Support: Works with various cloud providers, simplifying management in multi-cloud or hybrid cloud environments.
 
-Consistent Workflow: Provides a consistent approach to provisioning infrastructure across different environments.
+- Consistent Workflow: Provides a consistent approach to provisioning infrastructure across different environments.
 
-Infrastructure State Management: Keeps track of the infrastructure state, making it easier to update and modify resources.
+- Infrastructure State Management: Keeps track of the infrastructure state, making it easier to update and modify resources.
 
-Dependency Management: Automatically manages resource dependencies, ensuring the correct order of operations.
+- Dependency Management: Automatically manages resource dependencies, ensuring the correct order of operations.
 
-Plan and Preview: Generates execution plans for changes, allowing review before applying them.
+- Plan and Preview: Generates execution plans for changes, allowing review before applying them.
 
