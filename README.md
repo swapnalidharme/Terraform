@@ -1,5 +1,6 @@
 # Terraform
-What is terraform and how can it help you manage infrastructure as code? 
+## What is terraform and how can it help you manage infrastructure as code? 
+
 Terraform is the infrastructure as a code offering from HashiCorp. It is a tool for building, changing and managing infrastructure in a safe, repeatable way. Operators and Infrastructure teams can use Terraform to manage environments with a configuration language called the HashiCorp Configuration Language (HCL) for human-readable, automated deployments.
 
 Terraform works with over 160 different providers for a broad set of common infrastructure. Provider SDK makes it simple to create new and custom providers. Providers leverage infrastructure-specific APIs to preserve unique capabilities for each provider.
